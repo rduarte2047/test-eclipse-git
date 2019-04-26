@@ -14,4 +14,4 @@ def divide(x,y):
         print("Error in division")
 
 x, y = 1, 2
-print(sum(x,y))
+print(divide(x,y))
